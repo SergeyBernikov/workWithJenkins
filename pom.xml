@@ -5,8 +5,8 @@
   <artifactId>projectForJenkins</artifactId>
   <packaging>war</packaging>
   <properties>
-    <maven.compiler.source>${java.version}</maven.compiler.source>
-    <maven.compiler.target>${java.version}</maven.compiler.target>
+    <maven.compiler.source>9</maven.compiler.source>
+    <maven.compiler.target>9</maven.compiler.target>
     <spring.version>5.2.1.RELEASE</spring.version>
   </properties>
   <version>1.0-SNAPSHOT</version>
